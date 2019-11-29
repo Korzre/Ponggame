@@ -1,6 +1,7 @@
 # Game: Pong
-<img src="image1.PNG" alt="ERRO">
-
+<table><tr><td>
+    <img src="image1.PNG" alt="ERRO">
+</td></tr></table>
 
 <h2>This game was developed in java.</h2>
 
