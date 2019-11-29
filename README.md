@@ -5,7 +5,6 @@
 
 <h2>This game was developed in java.</h2>
 
----
 This game consists of not letting the ball go out of the corner where
 you are positioned, this is the first version of the game, so all 
 suggestions are welcome.
