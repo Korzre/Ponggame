@@ -5,12 +5,7 @@
 
 <h2>This game was developed in java.</h2>
 
-This game consists of not letting the ball go out of the corner where
-you are positioned, this is the first version of the game, so all 
-suggestions are welcome.
-
-In the game game i also had to use artificial intelligence on the enemy
-part, since the game is 1 vs Machine.
+This project is a faithful recreation of the arcade classic Pong, specifically designed to explore AI development in a 1 vs Machine environment. Built with Java, the game features a CPU agent that uses real-time tracking and position prediction to compete against the player. Key technical aspects include pixel-perfect collision detection, vector-based reflection physics, and state management to handle smooth gameplay transitions between the menu and the match.
 
 Good luck :)
 
